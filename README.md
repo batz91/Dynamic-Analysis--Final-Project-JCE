@@ -40,3 +40,7 @@ Gal Batz, Itai Gaffni.
 | Security | [![Known Vulnerabilities](https://snyk.io/test/github/batz91/Tlushi/badge.svg)](https://snyk.io/test/github/batz91/Dynamic-Analysis--Final-Project-JCE) |
 | Project Course Status | Alpha |
 
+## Iterations
+* Iteration ZFR
+* Iteration MVP
+* Iteration alpha
