@@ -42,5 +42,5 @@ Gal Batz, Itai Gaffni.
 
 ## Iterations
 * [Iteration 0 - ZFR](../../wiki/Iteration-ZFR)
-* [Iteration 1 - Work with frida and SQLite](../../wiki/Iteration)
+* [Iteration 1 - Work with frida and SQLite](../../wiki/Iteration-1-----Work-with-frida-and-SQLite)
 * Iteration alpha
