@@ -28,8 +28,7 @@ Gal Batz, Itai Gaffni.
 | Category  | Status |
 | ------------- | ------------- |
 | Version Control System | Butbucket  |
-| Recommended IDE  | [VSCode](https://code.visualstudio.com) |
-| Recommended IDE  | [VSCode](https://code.visualstudio.com) |
+| Recommended IDE  | [VSCode](https://visualstudio.github.com/) |
 | Dependencies | [![David](https://img.shields.io/david/dev/idleberg/vscode-badges.svg?style=flat-square)](https://david-dm.org/batz91/Dynamic-Analysis--Final-Project-JCE?type=dev) |
 | License | [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) |
 | Code Quality | [![Code Climate](https://codeclimate.com/github/batz91/Tlushi.svg)](https://codeclimate.com/github/jce-il/batz91/Tlushi) |
@@ -43,4 +42,4 @@ Gal Batz, Itai Gaffni.
 ## Iterations
 * [Iteration 0 - ZFR](../../wiki/Iteration-ZFR)
 * [Iteration 1 - Work with frida and SQLite](../../wiki/Iteration-1-----Work-with-frida-and-SQLite)
-* Iteration alpha
+* [Iteration 2- Alpha(../../Iteration-2-Alpha)
