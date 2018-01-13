@@ -38,7 +38,6 @@ Gal Batz, Itai Gaffni.
 | Current Release | [![Current Version](https://img.shields.io/github/release/batz91/Dynamic-Analysis--Final-Project-JCE.svg?style=flat)](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/releases) |
 | Github Issues | [![GitHub issues](https://img.shields.io/github/issues/batz91/Dynamic-Analysis--Final-Project-JCE.svg?style=flat)](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/issues) |
 | Project Management Board| [here](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/projects/1) |
-| Security | [![Known Vulnerabilities](https://snyk.io/test/github/batz91/Dynamic-Analysis--Final-Project-JCE/badge.svg)](https://snyk.io/test/github/batz91/Dynamic-Analysis--Final-Project-JCE) |
 | Project Course Status | Alpha |
 
 ## Iterations
