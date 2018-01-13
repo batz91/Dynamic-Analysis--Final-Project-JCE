@@ -33,6 +33,7 @@ Gal Batz, Itai Gaffni.
 | License | [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) |
 | Code Quality | [![Code Climate](https://codeclimate.com/github/batz91/Tlushi.svg)](https://codeclimate.com/github/jce-il/batz91/Tlushi) |
 | Code Style | [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE) |
+| Diary | [Diary](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/wiki/Diary)
 | Current Release | [![Current Version](https://img.shields.io/github/release/batz91/Dynamic-Analysis--Final-Project-JCE.svg?style=flat)](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/releases) |
 | Github Issues | [![GitHub issues](https://img.shields.io/github/issues/batz91/Dynamic-Analysis--Final-Project-JCE.svg?style=flat)](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/issues) |
 | Project Management Board| [here](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/projects/1) |
