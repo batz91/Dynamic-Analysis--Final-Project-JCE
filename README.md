@@ -32,13 +32,13 @@ Gal Batz, Itai Gaffni.
 | Recommended IDE  | [VS](https://visualstudio.github.com/) |
 | Dependencies | [![David](https://img.shields.io/david/dev/idleberg/vscode-badges.svg?style=flat-square)](https://david-dm.org/batz91/Dynamic-Analysis--Final-Project-JCE?type=dev) |
 | License | [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) |
-| Code Quality | [![Code Climate](https://codeclimate.com/github/batz91/Tlushi.svg)](https://codeclimate.com/github/jce-il/batz91/Tlushi) |
+| Code Quality | [![Code Climate](https://codeclimate.com/github/batz91/Dynamic-Analysis--Final-Project-JCE.svg)](https://codeclimate.com/github/jce-il/batz91/Dynamic-Analysis--Final-Project-JCE) |
 | Code Style | [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://www.codacy.com/app/batz91/vicarius-final/dashboard) |
 | Diary | [Diary](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/wiki/Diary)
 | Current Release | [![Current Version](https://img.shields.io/github/release/batz91/Dynamic-Analysis--Final-Project-JCE.svg?style=flat)](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/releases) |
 | Github Issues | [![GitHub issues](https://img.shields.io/github/issues/batz91/Dynamic-Analysis--Final-Project-JCE.svg?style=flat)](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/issues) |
 | Project Management Board| [here](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/projects/1) |
-| Security | [![Known Vulnerabilities](https://snyk.io/test/github/batz91/Tlushi/badge.svg)](https://snyk.io/test/github/batz91/Dynamic-Analysis--Final-Project-JCE) |
+| Security | [![Known Vulnerabilities](https://snyk.io/test/github/batz91/Dynamic-Analysis--Final-Project-JCE/badge.svg)](https://snyk.io/test/github/batz91/Dynamic-Analysis--Final-Project-JCE) |
 | Project Course Status | Alpha |
 
 ## Iterations
