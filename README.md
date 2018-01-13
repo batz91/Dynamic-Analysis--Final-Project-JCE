@@ -41,6 +41,6 @@ Gal Batz, Itai Gaffni.
 | Project Course Status | Alpha |
 
 ## Iterations
-* [Iteration 0 - ZFR] (../../wiki/Iteration-ZFR)
+* [Iteration 0 - ZFR](../../wiki/Iteration-ZFR)
 * Iteration MVP
 * Iteration alpha
