@@ -30,7 +30,7 @@ Gal Batz, Itai Gaffni.
 | ------------- | ------------- |
 | Version Control System | [Bitbucket](https://bitbucket.org)  |
 | Recommended IDE  | [VS](https://visualstudio.github.com/) |
-| Dependencies | [![David](https://img.shields.io/david/dev/idleberg/vscode-badges.svg?style=flat-square)](https://david-dm.org/batz91/Dynamic-Analysis--Final-Project-JCE?type=dev) |
+| Dependencies | [![David](https://img.shields.io/david/dev/idleberg/vscode-badges.svg?style=flat-square)](https://david-dm.org/batz91/Tlushi?type=dev) |
 | License | [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) |
 | Code Quality | [![Code Climate](https://codeclimate.com/github/batz91/Dynamic-Analysis--Final-Project-JCE.svg)](https://codeclimate.com/github/jce-il/batz91/Dynamic-Analysis--Final-Project-JCE) |
 | Code Style | [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://www.codacy.com/app/batz91/vicarius-final/dashboard) |
