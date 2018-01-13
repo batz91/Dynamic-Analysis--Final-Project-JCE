@@ -18,7 +18,7 @@ This is where we come in, in this project we try to give a solution to those pro
 * This repository will include all the documents, guides and photos that are relevent for the final product, the code will be in another repository that will be private.
 * This project depends on Windows in order to compile and run the application.
 * This project depends on SQLite, Frida And Vicarius Filter Driver.
-* Dairy(https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/wiki/Diary) - All summary sessions will be in the Diary
+* [Dairy](https://github.com/batz91/Dynamic-Analysis--Final-Project-JCE/wiki/Diary) - All summary sessions will be in the Diary
 
 ## Staff
 * Main project developer repository masters
